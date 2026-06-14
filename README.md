@@ -50,7 +50,7 @@ Claude Code ──hooks──▶ hook.ts ──local socket──▶ daemon.ts �
 Requirements: [Node.js](https://nodejs.org) 18+, the Discord **desktop** app, and Claude Code.
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/discord-claude.git
+git clone https://github.com/miseryavenue/discord-claude.git
 cd discord-claude
 npm install
 npm run setup
