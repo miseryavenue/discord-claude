@@ -1,0 +1,15 @@
+{
+  "clientId": "",
+  "showProjectName": true,
+  "showFileNames": true,
+  "showToolDetail": true,
+  "largeImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/960px-Claude_AI_symbol.svg.png",
+  "largeText": "Claude Code",
+  "smallImageWorking": "",
+  "smallImageIdle": "",
+  "activityType": 0,
+  "buttons": [],
+  "idleTimeoutMs": 300000,
+  "presenceHeartbeatMs": 15000,
+  "debug": false
+}

@@ -1,0 +1,23 @@
+{
+  "name": "discord-claude",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence for Claude Code — show what you're building, live.",
+  "license": "MIT",
+  "author": " miseryavenue",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "setup": "npm run build && node dist/install.js",
+    "install-hooks": "node dist/install.js",
+    "uninstall-hooks": "node dist/uninstall.js",
+    "status": "node dist/status.js",
+    "daemon": "node dist/daemon.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.5.0"
+  }
+}
